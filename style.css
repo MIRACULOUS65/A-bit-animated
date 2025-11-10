@@ -13,6 +13,9 @@ html,body{
 #main{
     width:100%
 }
+#home{
+
+}
 #nav{
     position:relative;
     display: flex;
@@ -37,3 +40,96 @@ html,body{
     transform: translate(-50%,-50%);
     font-size: 14px;
     }
+
+#hero{
+    width: 100%;
+    margin-top: 15vw;
+    padding: 3vw 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#sustain{
+width:10vw;
+}
+
+#sustain p{
+text-transform: capitalize;
+font-weight: 800;
+opacity: .5;
+font-size: 14px;
+margin:10px 0;
+
+}
+
+#sustain #susimagewrapper{
+    position: relative;
+    overflow: hidden;
+    width: 10vw;
+    height: 15vw;
+    
+}
+#susimagewrapper img{
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:140%;
+    height: 140%;
+    object-fit: cover;
+}
+#ephemeral{
+    position: relative;
+    width: 30vw;
+    height:42vw;
+    background-color: rgb(152, 138, 138);
+}
+#ephemeral img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+#ephemeral p{
+    font-weight: 400;;
+    position: absolute;
+    font-size: 1.2vw;
+    letter-spacing: -.07vw;
+    line-height: 1.3;
+    width: 50%;
+    top:100%
+}
+#ephemeral #headings{
+    top: -22%;
+    left:-20%;
+position: absolute;
+}
+#ephemeral h1{
+    letter-spacing: -.4vw;
+    line-height: 1;
+    font-size: 6vw;
+    font-weight: 400;
+}
+#visit{
+    display:flex;
+    gap: 10px;
+    align-items: center;
+}
+#circlev{
+    border-radius: 50%;
+    border: 2px solid #5b5757;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3vw;
+    height:3vw;
+}
+#circlev{
+    color: #5b5757;
+}
+
+#visit h3{
+    font-weight: 400;
+color: #5b5757;
+}
