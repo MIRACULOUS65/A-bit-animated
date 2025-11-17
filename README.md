@@ -3,7 +3,6 @@
 > A visually stunning, animated website promoting environmental consciousness and sustainability through modern web technologies.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://a-bit-animated.vercel.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/MIRACULOUS65/A-bit-animated?style=for-the-badge)](https://github.com/MIRACULOUS65/A-bit-animated/stargazers)
 ![Project Banner](./Images/Screenshot%202025-11-18%20050910.png)
 
 ## ✨ Features
@@ -18,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-Experience the magic: [A Bit Animated Live Demo](https://your-demo-link.com)
+Experience the magic: [A Bit Animated Live Demo](https://a-bit-animated.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -45,20 +44,6 @@ Experience the magic: [A Bit Animated Live Demo](https://your-demo-link.com)
     </td>
   </tr>
 </table>
-
-## 📸 Screenshots
-
-<details>
-<summary>🖼️ Click to view screenshots</summary>
-
-### Hero Section
-![Hero Section](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Hero+Section+Screenshot)
-
-### Sustainability Focus
-![Sustainability Section](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Sustainability+Section)
-
-### Interactive Gallery
-![Gallery Section](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Gallery+Section)
 
 </details>
 
@@ -189,9 +174,6 @@ This project demonstrates:
 - **Animation Libraries**: GSAP and WebGL integration
 - **Performance Optimization**: Efficient rendering techniques
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -203,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**MIRACULOUS65** 
+**MIRACULOUS65**
 Project Link: [https://github.com/MIRACULOUS65/A-bit-animated](https://github.com/MIRACULOUS65/A-bit-animated)
 
 ---
