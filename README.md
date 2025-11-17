@@ -2,11 +2,9 @@
 
 > A visually stunning, animated website promoting environmental consciousness and sustainability through modern web technologies.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://a-bit-animated.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/MIRACULOUS65/A-bit-animated?style=for-the-badge)](https://github.com/MIRACULOUS65/A-bit-animated/stargazers)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-![Project Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=A+Bit+Animated+-+Sustainable+Future)
+![Project Banner](./Images/Screenshot%202025-11-18%20050910.png)
 
 ## ✨ Features
 
