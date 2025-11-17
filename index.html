@@ -1,29 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
-    rel="stylesheet"
-/>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
     <link rel="stylesheet" href="./style.css">
 </head>
+
 <body>
     <div id="main">
         <div id="home">
             <div id="nav">
                 <div id="nleft">
-                    <a href="#">Home</a><a href="#">Pricing</a><a href="#">Products</a>
+                    <a class="nlink">Home</a>
+                    <a class="nlink">Pricing</a>
+                    <a class="nlink">Products</a>
                 </div>
                 <div id="centeratag">
-                    <a href="#">Miraculous</a>
-            </div>
-            
-            <div id="nright">
-                <a href="#">Our Journey</a>
-            </div>
+                    <a class="nlink">Miraculous</a>
+                </div>
+
+                <div id="nright">
+                    <a class="nlink">Our Journey</a>
+                </div>
             </div>
 
             <div id="hero">
@@ -41,19 +43,74 @@
                         <h1>Ephemeral</h1>
                         <h1>Equilibrium.</h1>
                     </div>
-                    <img src="./Images/pinkplant.jpg" alt="" srcset="">
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam.</p>
+                    <div id="imgntext">
+
+                        <img src="./Images/pinkplant.jpg" alt="" srcset="">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam.</p>
+                    </div>
                 </div>
 
                 <div id="visit">
                     <div id="circlev">
                         <i class="ri-arrow-down-long-line"></i>
                     </div>
-                        <h3>Visit our Gallery</h3>
+                    <h3>Visit our Gallery</h3>
                 </div>
             </div>
         </div>
+        <div id="motive">
+                <h3>Our Motive</h3>
+                <p>OUR MOTIVE
+                    At Sheryians, we are deeply committed to sustainability. We believe in a greener, more sustainable
+                    future,<span id="onespan"></span> and it's at the core of everything we do. Our practices are
+                    designed with environmental <span id="twospan"></span>responsibility in mind, from sourcing
+                    eco-friendly <span id="threespan"></span>materials to reducing our carbon footprint.</p>
+            </div>
+
+            <div id="pictures">
+                <div id="firstpic">
+                    <div id="picimg">
+                        <img src="./Images/sea.jpg" alt="" srcset="">
+                    </div>
+                    <h1>Synergy</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, fuga!</p>
+                </div>
+
+
+                <div id="secpic">
+                    <div id="picimg">
+                        <img src="./Images/cloud.jpg" alt="" srcset="">
+                    </div>
+                    <h1>Harmony</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, fuga!</p>
+                </div>
+            </div>
+
+
+            <div id="banner">
+                <div id="bimg">
+                    <img src="./Images/bottle.jpg" alt="" srcset="">
+                </div>
+                <div id="btext">
+                    <h1>Biodegradable</h1>
+                    <h1>Packaging</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, mollitia!</p>
+                </div>
+            </div>
+
+
+            <div id="future">
+                <video src="./Images/back.mp4" autoplay muted loop></video>
+                <div id="ftext">
+                    <h1>think of future</h1>
+                    <button>Join The Movement</button>
+                </div>
+            </div>
     </div>
-    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js" integrity="sha512-NcZdtrT77bJr4STcmsGAESr06BYGE8woZdSdEgqnpyqac7sugNO+Tr4bGwGF3MsnEkGKhU2KL2xh6Ec+BqsaHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js"></script>
+    <script src="./index.js"></script>
 </body>
+
 </html>
