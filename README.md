@@ -203,8 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**MIRACULOUS65** - [@your_handle](https://twitter.com/your_handle)
-
+**MIRACULOUS65** 
 Project Link: [https://github.com/MIRACULOUS65/A-bit-animated](https://github.com/MIRACULOUS65/A-bit-animated)
 
 ---
